@@ -10,8 +10,8 @@ WIP
     2. [Lectura de datos](https://github.com/Lara-Mario2000/curso-python/blob/main/2_pandas/2_2_lectura_de_datos.ipynb)
     3. [Tratamiento de datos](https://github.com/Lara-Mario2000/curso-python/blob/main/2_pandas/2_3_tratamiento_de_datos.ipynb)
 3. Visualizacion de Datos
-    2. [Plotly](https://github.com/Lara-Mario2000/curso-python/blob/main/3_visualizacion_de_datos/plotly/3_1_plotly.ipynb)
-    1. WIP
+    1. [Plotly](https://github.com/Lara-Mario2000/curso-python/blob/main/3_visualizacion_de_datos/plotly/3_1_plotly.ipynb)
+    2. WIP
 4. Selenium
 5. Problemas Razonados
 
